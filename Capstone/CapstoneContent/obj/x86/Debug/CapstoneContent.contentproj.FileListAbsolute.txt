@@ -1,0 +1,49 @@
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\Capstone\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\treengrassomg\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\oldgrass\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\thriller build\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\collision build\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\guns build\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\demo\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\peter\Desktop\demo\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\stripped\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\raw\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\minset\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\emotiv\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson - Copy\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\project dan\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\project dan - Copy\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\16 node build\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+F:\EEG source and solutions\8 node build\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\8 node build\Capstone\CapstoneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\8 node build\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\8 node build\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\daft\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\videobuild\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+F:\videobuild\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\videobuild\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\truth almighty\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\supersmash\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache

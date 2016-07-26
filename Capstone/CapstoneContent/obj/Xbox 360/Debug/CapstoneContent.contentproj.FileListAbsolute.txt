@@ -1,0 +1,5 @@
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\CapstoneContent\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\treengrassomg\Capstone\CapstoneContent\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\oldgrass\Capstone\CapstoneContent\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\CapstoneContent\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\thriller build\Capstone\CapstoneContent\obj\Xbox 360\Debug\ResolveAssemblyReference.cache

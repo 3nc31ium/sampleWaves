@@ -1,0 +1,43 @@
+a1c28d655d3f435990ace20ef0c4dd6d
+0
+FICE
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\
+129976279200000000
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\GameThumbnail.png
+2012-11-17T09:41:33.9851345Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Capstone.exe
+2012-11-17T12:10:33.8134635Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\SkinnedModel.dll
+2012-11-17T12:10:07.5429609Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\dirtygrass.xnb
+2012-11-17T12:10:13.3312920Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\dude.xnb
+2012-11-17T12:10:30.9362989Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\FancyTerrain.xnb
+2012-11-17T12:10:26.6370530Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\fps.xnb
+2012-11-17T12:10:26.7580599Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\grassy.xnb
+2012-11-17T12:10:19.6826552Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\head.xnb
+2012-11-17T12:10:21.5817639Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\head_0.xnb
+2012-11-17T12:10:31.6243383Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\heightmap2.xnb
+2012-11-17T12:10:19.8816666Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\jacket.xnb
+2012-11-17T12:10:23.1828554Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\jacket_0.xnb
+2012-11-17T12:10:32.2913764Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\pants.xnb
+2012-11-17T12:10:24.8529510Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\pants_0.xnb
+2012-11-17T12:10:32.9534143Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\rock.xnb
+2012-11-17T12:10:15.3584079Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\snow.xnb
+2012-11-17T12:10:18.2595738Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\upBodyC.xnb
+2012-11-17T12:10:26.6160518Z
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\upBodyC_0.xnb
+2012-11-17T12:10:33.6264528Z

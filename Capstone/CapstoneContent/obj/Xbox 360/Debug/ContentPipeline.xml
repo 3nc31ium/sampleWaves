@@ -1,0 +1,1403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>crosshair.png</Source>
+      <Name>crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\crosshair.xnb</Output>
+      <Time>2013-01-29T22:42:27.8682784-05:00</Time>
+    </Item>
+    <Item>
+      <Source>midcompass.png</Source>
+      <Name>midcompass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\midcompass.xnb</Output>
+      <Time>2013-01-30T01:22:12.6540365-05:00</Time>
+    </Item>
+    <Item>
+      <Source>north.png</Source>
+      <Name>north</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\north.xnb</Output>
+      <Time>2013-02-06T20:43:57.761272-05:00</Time>
+    </Item>
+    <Item>
+      <Source>diffuse1.fx</Source>
+      <Name>diffuse1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\diffuse1.xnb</Output>
+      <Time>2012-11-19T21:58:02.5362567-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Ambient3.fx</Source>
+      <Name>Ambient3</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\Ambient3.xnb</Output>
+      <Time>2012-11-27T01:34:28.6416942-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Ambient.fx</Source>
+      <Name>Ambient</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\Ambient.xnb</Output>
+      <Time>2013-01-18T08:04:58.7424102-05:00</Time>
+    </Item>
+    <Item>
+      <Source>InstancedModel03.fx</Source>
+      <Name>InstancedModel03</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\InstancedModel03.xnb</Output>
+      <Time>2013-02-05T01:09:36.7973998-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fps.spritefont</Source>
+      <Name>fps</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\fps.xnb</Output>
+      <Time>2012-11-17T05:33:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dude.fbx</Source>
+      <Name>dude</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\dude.xnb</Output>
+      <Time>2012-11-17T05:51:08-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\dude_0.xml</Key>
+        <Value>2013-02-05T11:55:17.8234873-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\head_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\jacket_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\pants_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\upBodyC_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>dude.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\dude_0.xml</Output>
+      <Time>2012-11-17T05:51:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>head.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\head_0.xnb</Output>
+      <Time>2010-09-15T16:11:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>jacket.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\jacket_0.xnb</Output>
+      <Time>2010-09-15T16:11:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pants.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\pants_0.xnb</Output>
+      <Time>2012-10-14T04:10:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>upBodyC.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\upBodyC_0.xnb</Output>
+      <Time>2010-09-15T16:11:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Soda\Desktop\Program Files\Autodesk\Maya2013\bin\zombie_1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_0.xnb</Output>
+      <Time>2011-05-10T23:45:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\cloudMap.jpg</Source>
+      <Name>sky\cloudMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\cloudMap.xnb</Output>
+      <Time>2013-01-20T09:45:49.0203831-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\stars.jpg</Source>
+      <Name>sky\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\stars.xnb</Output>
+      <Time>2013-01-26T11:23:50.5652497-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\CloudDome.fx</Source>
+      <Name>sky\CloudDome</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\CloudDome.xnb</Output>
+      <Time>2013-01-27T11:15:02.2955945-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\fern00.fbx</Source>
+      <Name>trees\fern00</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">30</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\fern00.xnb</Output>
+      <Time>2013-02-04T20:01:47.3136-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\fern00_0.xml</Key>
+        <Value>2013-02-05T13:26:02.8909273-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firtrunk_texture_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firneedle_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sky\dome.x</Source>
+      <Name>sky\dome</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\dome.xnb</Output>
+      <Time>2012-11-27T00:04:22-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\sky\dome_0.xml</Key>
+        <Value>2013-02-05T13:26:03.63697-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\cloudMap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sky\dome1.x</Source>
+      <Name>sky\dome1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\dome1.xnb</Output>
+      <Time>2012-11-27T00:04:22-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\sky\dome1_0.xml</Key>
+        <Value>2013-02-05T13:26:03.9809897-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\cloudMap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>trees\greenTree.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\greenTree_0.xml</Output>
+      <Time>2013-02-04T20:03:53.0156-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\treeBirch.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\treeBirch_0.xml</Output>
+      <Time>2013-02-04T11:43:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\InstancedModel.fx</Source>
+      <Name>trees\InstancedModel</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Output>
+      <Time>2013-02-23T10:38:04.0351897-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\roughbarktex.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roughbarktex_0.xnb</Output>
+      <Time>2009-02-28T10:50:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\lindgreentreetex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\lindgreentreetex_0.xnb</Output>
+      <Time>2009-02-06T13:00:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\bush00.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\bush00_0.xml</Output>
+      <Time>2013-02-04T19:58:19.4906-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\ahernbark.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\ahernbark_0.xnb</Output>
+      <Time>2009-02-09T13:15:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\bushtwig4v2.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bushtwig4v2_0.xnb</Output>
+      <Time>2009-02-10T13:43:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\bush01.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\bush01_0.xml</Output>
+      <Time>2013-02-04T19:59:32.3606-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\bushtwig2.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bushtwig2_0.xnb</Output>
+      <Time>2009-02-10T10:10:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\cherryTree.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\cherryTree_0.xml</Output>
+      <Time>2013-02-04T20:00:19.9116-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\cherrytreebark.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\cherrytreebark_0.xnb</Output>
+      <Time>2009-02-08T10:18:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\cherrytex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\cherrytex_0.xnb</Output>
+      <Time>2009-02-11T09:55:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\fruitTree.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\fruitTree_0.xml</Output>
+      <Time>2013-02-04T20:03:10.5526-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\fruittreetex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\fruittreetex_0.xnb</Output>
+      <Time>2009-02-11T10:20:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\roundTree.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\roundTree_0.xml</Output>
+      <Time>2013-02-04T20:04:42.7496-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\roundtreebark.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roundtreebark_0.xnb</Output>
+      <Time>2009-02-08T10:18:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\roundtreetwig.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roundtreetwig_0.xnb</Output>
+      <Time>2009-02-08T10:22:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\bigTree00.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\bigTree00_0.xml</Output>
+      <Time>2013-02-04T19:54:01.1296-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\bigtreebark.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigtreebark_0.xnb</Output>
+      <Time>2009-02-09T09:05:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\bigtreetex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigtreetex_0.xnb</Output>
+      <Time>2009-02-07T09:54:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\bigTree01.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\bigTree01_0.xml</Output>
+      <Time>2013-02-04T19:57:02.2616-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\fern00.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\fern00_0.xml</Output>
+      <Time>2013-02-04T20:01:47.3136-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\firtrunk_texture.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firtrunk_texture_0.xnb</Output>
+      <Time>2007-11-21T13:36:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\firneedle_texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firneedle_texture_0.xnb</Output>
+      <Time>2007-11-21T13:36:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\fern01.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\trees\fern01_0.xml</Output>
+      <Time>2013-02-04T20:02:25.9066-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\firbark.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firbark_0.xnb</Output>
+      <Time>2009-02-12T11:20:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\firtex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firtex_0.xnb</Output>
+      <Time>2009-02-13T09:21:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\dome.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\sky\dome_0.xml</Output>
+      <Time>2012-11-27T00:04:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\cloudMap.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\cloudMap_0.xnb</Output>
+      <Time>2013-01-20T09:45:49.0203831-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\dome1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\sky\dome1_0.xml</Output>
+      <Time>2012-11-27T00:04:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\flare1.png</Source>
+      <Name>sky\flare1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\flare1.xnb</Output>
+      <Time>2013-01-28T10:00:45.5008098-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\flare2.png</Source>
+      <Name>sky\flare2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\flare2.xnb</Output>
+      <Time>2013-01-28T10:00:45.5008098-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\flare3.png</Source>
+      <Name>sky\flare3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\flare3.xnb</Output>
+      <Time>2013-01-28T10:00:45.5164099-05:00</Time>
+    </Item>
+    <Item>
+      <Source>terrainNgrass\FancyTerrain.fx</Source>
+      <Name>terrainNgrass\FancyTerrain</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\FancyTerrain.xnb</Output>
+      <Time>2013-02-23T10:38:04.0431901-05:00</Time>
+    </Item>
+    <Item>
+      <Source>terrainNgrass\billBordEffectx.fx</Source>
+      <Name>terrainNgrass\billBordEffectx</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\billBordEffectx.xnb</Output>
+      <Time>2013-02-23T10:38:04.0391899-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\MultiSkyDome.fx</Source>
+      <Name>sky\MultiSkyDome</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\MultiSkyDome.xnb</Output>
+      <Time>2013-02-01T22:41:54.7587958-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\skyday.png</Source>
+      <Name>sky\skyday</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\skyday.xnb</Output>
+      <Time>2013-01-25T12:39:11.9515344-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\sunset.png</Source>
+      <Name>sky\sunset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\sunset.xnb</Output>
+      <Time>2013-01-25T12:39:11.9515344-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\PerlinNoise.fx</Source>
+      <Name>sky\PerlinNoise</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\PerlinNoise.xnb</Output>
+      <Time>2013-02-22T04:52:55.2188463-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\Sphere.fbx</Source>
+      <Name>sky\Sphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\Sphere.xnb</Output>
+      <Time>2013-01-26T14:34:37.8759235-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\sky\Sphere_0.xml</Key>
+        <Value>2013-02-05T13:38:52.928971-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>sky\Sphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\sky\Sphere_0.xml</Output>
+      <Time>2013-01-26T14:34:37.8759235-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\glow.png</Source>
+      <Name>sky\glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\glow.xnb</Output>
+      <Time>2013-01-28T10:00:45.5320099-05:00</Time>
+    </Item>
+    <Item>
+      <Source>terrainNgrass\heightmap2.jpg</Source>
+      <Name>terrainNgrass\heightmap2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\heightmap2.xnb</Output>
+      <Time>2012-11-17T05:01:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_SHAMBLE.fbx</Source>
+      <Name>zombeh\zombie_SHAMBLE</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_SHAMBLE.xnb</Output>
+      <Time>2013-01-25T04:14:54-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\zombeh\zombie_SHAMBLE_0.xml</Key>
+        <Value>2013-02-05T13:45:12.7156935-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_idle01.fbx</Source>
+      <Name>zombeh\zombie_idle01</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_idle01.xnb</Output>
+      <Time>2013-01-25T04:28:00-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\zombeh\zombie_idle01_0.xml</Key>
+        <Value>2013-02-05T13:48:02.7004161-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>zombeh\Zombie_Run01.fbx</Source>
+      <Name>zombeh\Zombie_Run01</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\Zombie_Run01.xnb</Output>
+      <Time>2013-01-25T04:34:48-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\zombeh\Zombie_Run01_0.xml</Key>
+        <Value>2013-02-05T13:48:03.4564594-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_idle_attk.fbx</Source>
+      <Name>zombeh\zombie_idle_attk</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_idle_attk.xnb</Output>
+      <Time>2013-01-30T01:55:32.0447711-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\zombeh\zombie_idle_attk_0.xml</Key>
+        <Value>2013-02-05T13:48:04.9265434-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_run_attk.fbx</Source>
+      <Name>zombeh\zombie_run_attk</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_run_attk.xnb</Output>
+      <Time>2013-01-30T02:04:25.4722161-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\zombeh\zombie_run_attk_0.xml</Key>
+        <Value>2013-02-05T13:48:06.510634-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>zombeh\Zombie death.fbx</Source>
+      <Name>zombeh\Zombie death</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\Zombie death.xnb</Output>
+      <Time>2013-01-30T01:06:10.9362445-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\zombeh\Zombie death_0.xml</Key>
+        <Value>2013-02-05T13:48:10.7598771-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_thriller.fbx</Source>
+      <Name>zombeh\zombie_thriller</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_thriller.xnb</Output>
+      <Time>2013-01-30T02:17:58.1969027-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\zombeh\zombie_thriller_0.xml</Key>
+        <Value>2013-02-05T13:48:14.989119-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_shtgn_death.fbx</Source>
+      <Name>zombeh\zombie_shtgn_death</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_shtgn_death.xnb</Output>
+      <Time>2013-01-30T03:20:08.5935243-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\zombeh\zombie_shtgn_death_0.xml</Key>
+        <Value>2013-02-05T13:48:16.5092059-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_SHAMBLE.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\zombeh\zombie_SHAMBLE_0.xml</Output>
+      <Time>2013-01-25T04:14:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Soda\Desktop\thriller build\Program Files\Autodesk\Maya2013\bin\zombie_1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_2.xnb</Output>
+      <Time>2011-05-10T23:45:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_idle01.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\zombeh\zombie_idle01_0.xml</Output>
+      <Time>2013-01-25T04:28:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>zombeh\Zombie_Run01.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\zombeh\Zombie_Run01_0.xml</Output>
+      <Time>2013-01-25T04:34:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_idle_attk.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\zombeh\zombie_idle_attk_0.xml</Output>
+      <Time>2013-01-30T01:55:32.0447711-05:00</Time>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_run_attk.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\zombeh\zombie_run_attk_0.xml</Output>
+      <Time>2013-01-30T02:04:25.4722161-05:00</Time>
+    </Item>
+    <Item>
+      <Source>zombeh\Zombie death.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\zombeh\Zombie death_0.xml</Output>
+      <Time>2013-01-30T01:06:10.9362445-05:00</Time>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_thriller.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\zombeh\zombie_thriller_0.xml</Output>
+      <Time>2013-01-30T02:17:58.1969027-05:00</Time>
+    </Item>
+    <Item>
+      <Source>zombeh\zombie_shtgn_death.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\zombeh\zombie_shtgn_death_0.xml</Output>
+      <Time>2013-01-30T03:20:08.5935243-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\rain.png</Source>
+      <Name>sky\rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\rain.xnb</Output>
+      <Time>2013-01-20T23:23:40.4954032-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\snowf.png</Source>
+      <Name>sky\snowf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\snowf.xnb</Output>
+      <Time>2013-01-20T23:23:40.5110032-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\ParticleShader.fx</Source>
+      <Name>sky\ParticleShader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\ParticleShader.xnb</Output>
+      <Time>2013-02-23T14:13:51.9378561-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\bush00.fbx</Source>
+      <Name>trees\bush00</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">15</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bush00.xnb</Output>
+      <Time>2013-02-04T19:58:19.4906-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\bush00_0.xml</Key>
+        <Value>2013-02-05T13:25:59.9207574-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\ahernbark_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bushtwig4v2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>trees\bush01.fbx</Source>
+      <Name>trees\bush01</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">15</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bush01.xnb</Output>
+      <Time>2013-02-04T19:59:32.3606-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\bush01_0.xml</Key>
+        <Value>2013-02-05T13:26:00.4217861-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\ahernbark_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bushtwig2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>east.png</Source>
+      <Name>east</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\east.xnb</Output>
+      <Time>2013-02-06T20:44:43.0148603-05:00</Time>
+    </Item>
+    <Item>
+      <Source>south.png</Source>
+      <Name>south</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\south.xnb</Output>
+      <Time>2013-02-06T20:48:46.2877748-05:00</Time>
+    </Item>
+    <Item>
+      <Source>west.png</Source>
+      <Name>west</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\west.xnb</Output>
+      <Time>2013-02-06T20:50:17.8500118-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Soldier_5k.fbx</Source>
+      <Name>Soldier_5k</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\Soldier_5k.xnb</Output>
+      <Time>2013-02-07T02:00:05.82-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Soldier_5k_0.xml</Key>
+        <Value>2013-02-08T12:02:50.925775-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\Soldier_D_1024_alt_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Soldier_5k.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Soldier_5k_0.xml</Output>
+      <Time>2013-02-07T02:00:05.82-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Soldier_D_1024_alt.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\Soldier_D_1024_alt_0.xnb</Output>
+      <Time>2013-02-04T05:13:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\fern01.fbx</Source>
+      <Name>trees\fern01</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\fern01.xnb</Output>
+      <Time>2013-02-04T20:02:25.9066-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\fern01_0.xml</Key>
+        <Value>2013-02-05T13:26:03.0719377-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firbark_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firtex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sod.fbx</Source>
+      <Name>sod</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sod.xnb</Output>
+      <Time>2013-02-11T23:48:38.887-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\sod_0.xml</Key>
+        <Value>2013-02-20T10:55:56.1843357-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>copter_full.fbx</Source>
+      <Name>copter_full</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\copter_full.xnb</Output>
+      <Time>2013-02-12T01:26:40.5382-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\copter_full_0.xml</Key>
+        <Value>2013-02-20T10:55:56.7615367-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>trees\birchbark.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\birchbark_1.xnb</Output>
+      <Time>2013-02-04T11:48:19.2052809-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\birchtwig.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\birchtwig_1.xnb</Output>
+      <Time>2013-02-04T11:48:18.4564796-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sod.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\sod_0.xml</Output>
+      <Time>2013-02-11T23:48:38.887-05:00</Time>
+    </Item>
+    <Item>
+      <Source>copter_full.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\copter_full_0.xml</Output>
+      <Time>2013-02-12T01:26:40.5382-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\roundTree.fbx</Source>
+      <Name>trees\roundTree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">50</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roundTree.xnb</Output>
+      <Time>2013-02-04T20:04:42.7496-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\roundTree_0.xml</Key>
+        <Value>2013-02-05T13:26:01.7088597-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roundtreebark_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roundtreetwig_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>trees\greenTree.fbx</Source>
+      <Name>trees\greenTree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">50</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\greenTree.xnb</Output>
+      <Time>2013-02-04T20:03:53.0156-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\greenTree_0.xml</Key>
+        <Value>2013-02-05T13:22:05.5313511-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roughbarktex_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\lindgreentreetex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>trees\fruitTree.fbx</Source>
+      <Name>trees\fruitTree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">50</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\fruitTree.xnb</Output>
+      <Time>2013-02-04T20:03:10.5526-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\fruitTree_0.xml</Key>
+        <Value>2013-02-05T13:26:01.3058367-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\ahernbark_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\fruittreetex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>trees\bigTree01.fbx</Source>
+      <Name>trees\bigTree01</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">100</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigTree01.xnb</Output>
+      <Time>2013-02-04T19:57:02.2616-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\bigTree01_0.xml</Key>
+        <Value>2013-02-05T13:26:02.8119228-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigtreebark_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigtreetex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>trees\bigTree00.fbx</Source>
+      <Name>trees\bigTree00</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">100</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigTree00.xnb</Output>
+      <Time>2013-02-04T19:54:01.1296-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\bigTree00_0.xml</Key>
+        <Value>2013-02-05T13:26:02.2708919-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigtreebark_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigtreetex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>terrainNgrass\dirtygrass.jpg</Source>
+      <Name>terrainNgrass\dirtygrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\dirtygrass.xnb</Output>
+      <Time>2012-11-17T04:42:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>terrainNgrass\rock.png</Source>
+      <Name>terrainNgrass\rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\rock.xnb</Output>
+      <Time>2012-11-17T04:42:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>terrainNgrass\snow.jpg</Source>
+      <Name>terrainNgrass\snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\snow.xnb</Output>
+      <Time>2012-11-17T04:42:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>terrainNgrass\grassy.jpg</Source>
+      <Name>terrainNgrass\grassy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\grassy.xnb</Output>
+      <Time>2012-11-17T05:00:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>terrainNgrass\grass1.png</Source>
+      <Name>terrainNgrass\grass1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\grass1.xnb</Output>
+      <Time>2013-01-07T09:31:48.6878074-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trees\treeBirch.fbx</Source>
+      <Name>trees\treeBirch</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">50</Data>
+        <Data Key="PremultiplyTextureAlpha">False</Data>
+        <Data Key="PremultiplyVertexColors">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\treeBirch.xnb</Output>
+      <Time>2013-02-04T11:43:40-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\treeBirch_0.xml</Key>
+        <Value>2013-02-05T13:25:21.5155608-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\birchbark_1.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\birchtwig_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>trees\cherryTree.fbx</Source>
+      <Name>trees\cherryTree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>InstancedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">50</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\cherryTree.xnb</Output>
+      <Time>2013-02-04T20:00:19.9116-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\trees\cherryTree_0.xml</Key>
+        <Value>2013-02-05T13:26:00.7598054-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\cherrytreebark_0.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb</Request>
+      <Request>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\cherrytex_0.xnb</Request>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Soda\Desktop\thriller build\Capstone\CapstoneContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Soda\Desktop\thriller build\Capstone\CapstoneContent\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Soda\Desktop\thriller build\SkinningPipeline\bin\x86\Debug\SkinningPipeline.dll</Key>
+        <Value>2013-02-05T11:54:09.947605-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Soda\Desktop\thriller build\InstancedModelPipeline\bin\x86\Debug\InstancedModelPipeline.dll</Key>
+        <Value>2013-02-05T01:34:30.3763075-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-17T02:05:46.8756922-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

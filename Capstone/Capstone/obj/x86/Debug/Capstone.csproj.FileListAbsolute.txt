@@ -1,0 +1,1925 @@
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\dirtygrass.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\rock.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\snow.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\FancyTerrain.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\grassy.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\heightmap2.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\head.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\jacket.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\pants.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\upBodyC.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\dirtygrass.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\rock.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\snow.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\grassy.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\heightmap2.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\head.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\pants.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\FancyTerrain.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\Billboard.xnb
+C:\Users\Soda\Desktop\Capstone\Capstone\Capstone\bin\x86\Debug\Content\grass.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\dirtygrass.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\rock.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\snow.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\grassy.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\heightmap2.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\head.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\pants.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\grass.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\FancyTerrain.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\Billboard.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\Ambient3.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\tree01.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\maya\tree UV\tree03txt_0.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\billBordEffectx.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\TreeScene.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\tron.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\leaf_branch_02_01_512.xnb
+C:\Users\Soda\Desktop\BillbordscaledTerrain\Capstone\Capstone\bin\x86\Debug\Content\leaf_branch_02_01_512_0.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\dirtygrass.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\rock.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\snow.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\grassy.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\heightmap2.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\head.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\pants.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\grass.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\leaf_branch_02_01_512.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\FancyTerrain.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\Ambient3.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\billBordEffectx.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\tree01.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\TreeScene.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\tron.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\maya\tree UV\tree03txt_0.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\leaf_branch_02_01_512_0.xnb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\treengrassomg\Capstone\Capstone\bin\x86\Debug\Content\bark.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\dirtygrass.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\rock.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\snow.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\grassy.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\heightmap2.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\head.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\pants.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\grass.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\leaf_branch_02_01_512.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\bark.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\FancyTerrain.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\Ambient3.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\billBordEffectx.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\tree01.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\TreeScene.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\tron.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\maya\tree UV\tree03txt_0.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\leaf_branch_02_01_512_0.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\grass1.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\palm3.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\palm5.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\palm1.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\FinalFirTreeTPng.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\LowPolyFirFBTree.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\FinalFirTreeT_0.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\patrbr.xnb
+C:\Users\Soda\Desktop\treengrasnormal\Capstone\Capstone\bin\x86\Debug\Content\patrlfco.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\dirtygrass.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\rock.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\snow.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\grassy.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\heightmap2.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\head.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\pants.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\grass.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\bark.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\grass1.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\FancyTerrain.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\Ambient3.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\billBordEffectx.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\palm5.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\cherrytex.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\treeShader.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\tree.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\cherrytreebark.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\birchbarkNM.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\Ambient.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\zombieIdle.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\bigtree1.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\bigtreebark_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\bigtreetex_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\bigtreebark.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\bigtreetex.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\firbark.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\firtex.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\firtree1.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\firbark_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\firtex_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\firbark2.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\firtree2.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\firbark2_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\ahernbark.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\bushtwig4v2.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\bush.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\ahernbark_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\bushtwig4v2_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\SkyDome.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\dome.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\cloudMap_0.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\PerlinNoise.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\cloudMap.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\rain.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Soda\Desktop\oldgrass\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dirtygrass.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\rock.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\snow.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\grassy.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\heightmap2.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\grass.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bark.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\grass1.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cherrytex.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cherrytreebark.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreebark.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreetex.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtex.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark2.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\ahernbark.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bushtwig4v2.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cloudMap.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\rain.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\skyday.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\stars.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\sunset.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\FancyTerrain.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Ambient3.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\billBordEffectx.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\treeShader.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Ambient.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\CloudDome.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\PerlinNoise.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\MultiSkyDome.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\tree.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtree1.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtree1.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtree2.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bush.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_SHAMBLE.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_idle01.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Zombie_Run01.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dome.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreebark_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreetex_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtex_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark2_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\ahernbark_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bushtwig4v2_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_1.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cloudMap_0.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dome1.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Sphere.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dirtygrass.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\rock.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\snow.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\grassy.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\heightmap2.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\grass.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bark.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\grass1.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cherrytex.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cherrytreebark.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreebark.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreetex.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtex.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark2.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\ahernbark.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bushtwig4v2.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cloudMap.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\rain.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\skyday.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\stars.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\sunset.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\FancyTerrain.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Ambient3.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\billBordEffectx.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\treeShader.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Ambient.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\CloudDome.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\PerlinNoise.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\MultiSkyDome.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\tree.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombieIdle.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtree1.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtree1.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtree2.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bush.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Zed_IDLE.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_SHAMBLE.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Zombie_Run.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_idle01.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Zombie_Run01.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Sphere.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dome.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dome1.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreebark_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreetex_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtex_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark2_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\ahernbark_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bushtwig4v2_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_1.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cloudMap_0.xnb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\peter\Desktop\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dirtygrass.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\rock.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\snow.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\grassy.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\heightmap2.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\grass.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bark.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\grass1.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cherrytex.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cherrytreebark.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreebark.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreetex.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtex.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark2.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\ahernbark.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bushtwig4v2.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cloudMap.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\rain.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\skyday.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\stars.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\sunset.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\FancyTerrain.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Ambient3.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\billBordEffectx.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\treeShader.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Ambient.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\CloudDome.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\PerlinNoise.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\MultiSkyDome.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\tree.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombieIdle.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtree1.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtree1.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtree2.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bush.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Zed_IDLE.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_SHAMBLE.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Zombie_Run.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_idle01.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Zombie_Run01.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Sphere.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dome.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\dome1.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreebark_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bigtreetex_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firtex_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\firbark2_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\ahernbark_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\bushtwig4v2_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_1.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\cloudMap_0.xnb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\Dropbox\xbox build needs refign\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\flare1.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\flare2.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\flare3.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\glow.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\crosshair.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_idle_attk.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_run_attk.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\Zombie death.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\midcompass.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_thriller.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_shtgn_death.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_2.xnb
+C:\Users\Soda\Desktop\xbox build needs refign\Capstone\Capstone\bin\x86\Debug\Content\north.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\crosshair.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\midcompass.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\north.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\dirtygrass.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\rock.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\snow.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grassy.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\heightmap2.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grass1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\cloudMap.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\rain.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\snowf.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\skyday.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\stars.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\sunset.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\flare1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\flare2.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\flare3.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\glow.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\FancyTerrain.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\billBordEffectx.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\CloudDome.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\PerlinNoise.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\ParticleShader.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\MultiSkyDome.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\InstancedModel.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_SHAMBLE.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_idle01.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\Zombie_Run01.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\Sphere.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_idle_attk.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_run_attk.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\Zombie death.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_thriller.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_shtgn_death.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\treeBirch.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\greenTree.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush00.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush01.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\cherryTree.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\fruitTree.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\roundTree.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigTree00.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\fern00.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\dome.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\dome1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\sky\cloudMap_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\east.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\south.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\west.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\copter_full.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigTree01.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\fern01.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigtreebark_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigtreetex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\firbark_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\firtex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\birchbark_1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\birchtwig_1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\roughbarktex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\lindgreentreetex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\ahernbark_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\bushtwig4v2_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\bushtwig2_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\cherrytreebark_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\cherrytex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\fruittreetex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\roundtreebark_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\roundtreetwig_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\firtrunk_texture_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\trees\firneedle_texture_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_2.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_3.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_4.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_5.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_idle.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\mia\SexyFem_Texture_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_back.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_L.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_R.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\flowers.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\x86\Debug\Content\death.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\dirtygrass.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\rock.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\snow.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grassy.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\heightmap2.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grass1.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\cloudMap.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\rain.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\snowf.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\skyday.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\stars.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\sunset.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\flare1.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\flare2.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\flare3.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\glow.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\crosshair.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\midcompass.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\north.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\east.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\south.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\west.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_1.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_2.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_3.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_4.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_5.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\flowers.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\FancyTerrain.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\billBordEffectx.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\CloudDome.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\PerlinNoise.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\ParticleShader.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\MultiSkyDome.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\InstancedModel.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigTree01.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\fern01.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_SHAMBLE.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_idle01.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\Zombie_Run01.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\Sphere.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_idle_attk.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_run_attk.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\Zombie death.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_thriller.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_shtgn_death.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\treeBirch.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\greenTree.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush00.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush01.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\cherryTree.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\fruitTree.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\roundTree.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigTree00.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\fern00.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\copter_full.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_back.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_idle.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_L.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_R.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\dome.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\dome1.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\death.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigtreebark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigtreetex_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\firbark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\firtex_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\birchbark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\birchtwig_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\roughbarktex_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\lindgreentreetex_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\ahernbark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bushtwig4v2_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bushtwig2_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\cherrytreebark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\cherrytex_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\fruittreetex_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\roundtreebark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\roundtreetwig_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\firtrunk_texture_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\firneedle_texture_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\mia\SexyFem_Texture_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\sky\cloudMap_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_sprint.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia.fbm\SexyFem_Texture_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_idle_shoot.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\CartoonSMG.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\Clip_AO_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\SMG_AO_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\shotty.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\870_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\Barret_M107.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\M107_D_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\barreticon.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\m16icon.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\shottyicon.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\amiba.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\blood.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\plant.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\ReedCherry_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\pine00.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\ScotsPinebranches_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\ScotsPinetrunk2_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Willow.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\WillowBark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\WillowBranches_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\ThinTree.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\ThinTree_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Sycamore.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\SycamoreBark4_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\SycamoreLeaves5_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\pine01.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Mimosa.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\MimosaBark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\MimosaBranch_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\japanesemaple.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\JapaneseBark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\JapaneseMapleBranch_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Banyan.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\BanyanBark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\BanyanBranches_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bamboo.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bamboo_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\alder.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\AlderBark_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\AlderBranches_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush02.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush03.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush1_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush2_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush04.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush05.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush06.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush07.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush08.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush3_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush4_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush5_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush6_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush7_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_0.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_1.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\death2.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\bigGun.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\machineGun.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\guns\shotGun.xnb
+C:\Users\Soda\Desktop\collision build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\mapmap.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\dirtygrass.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\rock.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\snow.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grassy.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\heightmap2.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grass1.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\cloudMap.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\rain.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\snowf.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\skyday.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\stars.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\sunset.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\flare1.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\flare2.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\flare3.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\glow.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\crosshair.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\midcompass.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\north.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\east.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\south.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\west.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_1.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_2.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_3.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_4.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_5.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\flowers.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\blood.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\FancyTerrain.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\billBordEffectx.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\CloudDome.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\PerlinNoise.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\ParticleShader.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\MultiSkyDome.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\InstancedModel.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigTree01.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\fern01.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_SHAMBLE.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_idle01.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\Zombie_Run01.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\Sphere.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_idle_attk.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_run_attk.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_thriller.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_shtgn_death.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\treeBirch.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\greenTree.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush00.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush01.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\cherryTree.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\fruitTree.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\roundTree.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigTree00.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\fern00.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_back.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_idle.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_L.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_R.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_sprint.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_idle_shoot.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\shotty.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\CartoonSMG.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\Barret_M107.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\plant.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\pine00.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Willow.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\ThinTree.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Sycamore.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\pine01.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Mimosa.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\japanesemaple.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Banyan.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bamboo.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\alder.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush02.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush03.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush04.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush05.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush06.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush07.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bush08.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\Zombie death.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\dome.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\dome1.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\bigGun.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\machineGun.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\shotGun.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigtreebark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bigtreetex_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\firbark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\firtex_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_1.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\birchbark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\birchtwig_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\roughbarktex_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\lindgreentreetex_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\ahernbark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bushtwig4v2_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\bushtwig2_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\cherrytreebark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\cherrytex_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\fruittreetex_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\roundtreebark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\roundtreetwig_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\firtrunk_texture_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\firneedle_texture_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\mia\SexyFem_Texture_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia.fbm\SexyFem_Texture_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\870_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\Clip_AO_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\SMG_AO_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\M107_D_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\ReedCherry_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\ScotsPinebranches_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\ScotsPinetrunk2_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\WillowBark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\WillowBranches_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\ThinTree_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\MimosaBark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\MimosaBranch_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\JapaneseBark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\JapaneseMapleBranch_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\BanyanBark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\BanyanBranches_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bamboo_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\AlderBark_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\AlderBranches_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush1_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush2_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush3_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush4_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush5_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush6_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush7_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\cloudMap_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\terrain.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\copter\Copter_full.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\copter\Copter uv2_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\copter\Copter_Dmge.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\copter\engine.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\copter\wings.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\copter\Engine_Cooler.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\copter\Rotor.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\copter\Vend_Mchne.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\copter\vending machine_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\copter\tail_rotor.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\moon_mdl.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\sky\Texture-Moon_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\death.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\death1.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\death2.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\SycamoreBark4_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\trees\SycamoreLeaves5_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\headshot.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\ludicrouskill.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\monsterkill.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\multikill.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\ultrakill.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\wickedsick.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle1.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle2.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle3.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle4.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\crosshair.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\death.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\east.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\kojima.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\midcompass.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\north.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\south.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\timebox.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\west.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\doublekill.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\fatkill.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\massivekill.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\momumentalkill.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\overkill.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\tripplekill.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\barreticon.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\m16icon.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\shottyicon.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\Rocket.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\rocket_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\DBS.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\DBS_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\M32.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\m32_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\Sniper.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\sniper_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\dust.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grassdust.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\rockDust.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\snowdust.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\10.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\userFACE\20.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\M202.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\MG4.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\m202_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\mg4_0.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\fire.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\smoke.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\missle.xnb
+C:\Users\Soda\Desktop\guns build\Capstone\Capstone\bin\x86\Debug\Content\guns\boom.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\dirtygrass.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\rock.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\snow.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grassy.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\heightmap2.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grass1.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\cloudMap.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\rain.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\snowf.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\skyday.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\stars.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\sunset.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\flare1.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\flare2.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\flare3.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\glow.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\crosshair.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\midcompass.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\north.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\east.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\south.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\west.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_1.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_2.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_3.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_4.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_5.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\flowers.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\blood.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\terrain.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\crosshair.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\death.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\east.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\kojima.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\midcompass.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\north.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\south.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\timebox.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\west.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\doublekill.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\fatkill.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\massivekill.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\momumentalkill.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\overkill.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\tripplekill.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\barreticon.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\m16icon.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\shottyicon.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\dust.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grassdust.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\rockDust.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\snowdust.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\10.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\userFACE\20.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\fire.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\smoke.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\FancyTerrain.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\billBordEffectx.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\CloudDome.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\PerlinNoise.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\ParticleShader.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\MultiSkyDome.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\InstancedModel.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bigTree01.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\fern01.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_SHAMBLE.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_idle01.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\Zombie_Run01.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\Sphere.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_idle_attk.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_run_attk.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_thriller.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_shtgn_death.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\treeBirch.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\greenTree.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bush00.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bush01.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\cherryTree.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\fruitTree.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\roundTree.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bigTree00.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\fern00.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_back.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_idle.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_L.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_R.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_sprint.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_idle_shoot.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\shotty.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\CartoonSMG.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\Barret_M107.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\plant.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\pine00.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Willow.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\ThinTree.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Sycamore.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\pine01.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Mimosa.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\japanesemaple.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Banyan.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Bamboo.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\alder.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bush02.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bush03.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bush04.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bush05.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bush06.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bush07.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bush08.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\Zombie death.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\copter\Copter_full.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\copter\Copter_Dmge.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\copter\engine.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\copter\wings.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\copter\Engine_Cooler.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\copter\Rotor.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\copter\Vend_Mchne.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\copter\tail_rotor.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\moon_mdl.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\Rocket.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\DBS.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\M32.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\Sniper.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\M202.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\MG4.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\dome.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\dome1.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\bigGun.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\machineGun.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\shotGun.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\missle.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\boom.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\death.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\death1.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\death2.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\headshot.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\ludicrouskill.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\monsterkill.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\multikill.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\ultrakill.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\wickedsick.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle1.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle2.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle3.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle4.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bigtreebark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bigtreetex_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\firbark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\firtex_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_1.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\birchbark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\birchtwig_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\roughbarktex_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\lindgreentreetex_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\ahernbark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bushtwig4v2_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\bushtwig2_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\cherrytreebark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\cherrytex_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\fruittreetex_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\roundtreebark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\roundtreetwig_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\firtrunk_texture_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\firneedle_texture_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\mia\SexyFem_Texture_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia.fbm\SexyFem_Texture_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\870_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\Clip_AO_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\SMG_AO_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\M107_D_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\ReedCherry_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\ScotsPinebranches_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\ScotsPinetrunk2_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\WillowBark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\WillowBranches_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\ThinTree_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\SycamoreBark4_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\SycamoreLeaves5_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\MimosaBark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\MimosaBranch_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\JapaneseBark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\JapaneseMapleBranch_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\BanyanBark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\BanyanBranches_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Bamboo_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\AlderBark_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\AlderBranches_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush1_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush2_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush3_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush4_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush5_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush6_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush7_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\copter\Copter uv2_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\copter\vending machine_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\Texture-Moon_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\rocket_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\DBS_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\m32_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\sniper_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\m202_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\guns\mg4_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\sky\cloudMap_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\skelton\skeleton.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\skelton\skeletonBody_0.xnb
+C:\Users\Soda\Desktop\rock rocket rock\Capstone\Capstone\bin\x86\Debug\Content\skelton\skeletonHead_0.xnb
+C:\Users\Soda\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\demo\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\demo\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\demo\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\demo\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\dirtygrass.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\rock.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\snow.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grassy.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\heightmap2.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grass1.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\cloudMap.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\rain.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\snowf.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\skyday.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\stars.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\sunset.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\flare1.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\flare2.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\flare3.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\glow.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\crosshair.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\midcompass.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\north.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\east.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\south.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\west.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_1.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_2.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_3.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_4.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_5.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\flowers.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\blood.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\terrain.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\crosshair.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\death.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\east.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\kojima.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\midcompass.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\north.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\south.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\timebox.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\west.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\doublekill.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\fatkill.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\massivekill.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\momumentalkill.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\overkill.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\tripplekill.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\barreticon.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\m16icon.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\shottyicon.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\dust.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\grassdust.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\rockDust.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\snowdust.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\10.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\20.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\explosion.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\fire.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\smoke.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\FancyTerrain.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\terrainNgrass\billBordEffectx.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\CloudDome.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\PerlinNoise.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\ParticleShader.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\MultiSkyDome.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\InstancedModel.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\dude.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bigTree01.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\fern01.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_SHAMBLE.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_idle01.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\Zombie_Run01.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\Sphere.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_idle_attk.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_run_attk.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_thriller.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zombie_shtgn_death.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\treeBirch.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\greenTree.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bush00.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bush01.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\cherryTree.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\fruitTree.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\roundTree.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bigTree00.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\fern00.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_back.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_idle.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_L.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_run_R.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_sprint.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia_idle_shoot.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\shotty.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\CartoonSMG.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\Barret_M107.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\plant.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\pine00.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Willow.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\ThinTree.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Sycamore.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\pine01.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Mimosa.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\japanesemaple.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Banyan.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Bamboo.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\alder.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bush02.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bush03.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bush04.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bush05.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bush06.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bush07.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bush08.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\Zombie death.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\Copter_full.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\Copter_Dmge.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\engine.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\wings.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\Engine_Cooler.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\Rotor.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\Vend_Mchne.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\tail_rotor.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\moon_mdl.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\Rocket.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\DBS.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\M32.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\Sniper.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\M202.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\MG4.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\skelton\skeleton.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\dome.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\dome1.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\bigGun.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\machineGun.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\shotGun.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\missle.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\boom.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\death.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\death1.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\death2.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\headshot.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle1.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle2.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle3.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombeh\zidle4.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\head_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bigtreebark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bigtreetex_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\firbark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\firtex_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\zombie_1_1.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\birchbark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\birchtwig_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\roughbarktex_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\lindgreentreetex_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\ahernbark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bushtwig4v2_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\bushtwig2_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\cherrytreebark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\cherrytex_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\fruittreetex_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\roundtreebark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\roundtreetwig_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\firtrunk_texture_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\firneedle_texture_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\mia\SexyFem_Texture_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\mia\Mia.fbm\SexyFem_Texture_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\870_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\Clip_AO_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\SMG_AO_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\M107_D_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\ReedCherry_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\ScotsPinebranches_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\ScotsPinetrunk2_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\WillowBark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\WillowBranches_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\ThinTree_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\SycamoreBark4_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\SycamoreLeaves5_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\MimosaBark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\MimosaBranch_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\JapaneseBark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\JapaneseMapleBranch_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\BanyanBark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\BanyanBranches_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Bamboo_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\AlderBark_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\AlderBranches_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush1_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush2_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush3_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush4_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush5_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush6_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\trees\Bush7_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\Copter uv2_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\vending machine_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\Texture-Moon_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\rocket_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\DBS_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\m32_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\sniper_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\m202_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\mg4_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\skelton\skeletonBody_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\skelton\skeletonHead_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sky\cloudMap_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\SkinnedModel.dll
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\peter\Desktop\demo\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\peter\Desktop\demo\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\peter\Desktop\demo\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\wavetransition.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\restart.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\youaredead.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\ludicrouskill.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\monsterkill.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\multikill.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\ultrakill.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\killstreaks\wickedsick.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\bar.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\battery.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\sepia.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\launchericon.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\startmenu.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\startmenu0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\startmenu1.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\startmenu2.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\typewriter.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\black.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\slogan0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\voice.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\bell1.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\about.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\options.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\dollasign.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\money.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\controls.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\copter\vending machine.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\prompt.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\upgrademenu.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menu\ak47buy.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menu\healthbuy.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menu\launcherbuy.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menu\m16buy.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menu\powerbuy.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menu\shottybuy.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menu\speedbuy.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menu\staminabuy.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menu\menuicon.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menu\soldout.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\blip.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\clunk.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\870mcs.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\shottyicon2.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\AKTXT.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\m16TXT.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\AK47.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\M16.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\AKTXT_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\m16TXT_0.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\akicon.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\run.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\menuOpen.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\selectbox.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\off.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\on.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\ak47shot.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\guns\m16shot.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\X2.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\X3.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\X4.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\X5.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\X6.xnb
+C:\Users\peter\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\userFACE\X7.xnb
+C:\Users\Soda\Desktop\demo\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\stripped\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\stripped\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\stripped\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\stripped\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\stripped\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\stripped\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\stripped\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\stripped\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\bin\x86\Debug\AForge.Math.dll
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\bin\x86\Debug\AForge.dll
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\bin\x86\Debug\AForge.Math.xml
+C:\Users\Soda\Desktop\raw\Capstone\Capstone\bin\x86\Debug\AForge.xml
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\bin\x86\Debug\AForge.Math.dll
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\bin\x86\Debug\ThinkGearNET.dll
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\bin\x86\Debug\AForge.dll
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\bin\x86\Debug\AForge.Math.xml
+C:\Users\Soda\Desktop\raw - Copy (2)\Capstone\Capstone\bin\x86\Debug\AForge.xml
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\bin\x86\Debug\AForge.Math.dll
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\bin\x86\Debug\ThinkGearNET.dll
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\bin\x86\Debug\AForge.dll
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\bin\x86\Debug\AForge.Math.xml
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\bin\x86\Debug\AForge.xml
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\raw - Copy (2) - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\bin\x86\Debug\AForge.Math.dll
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\bin\x86\Debug\AForge.dll
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\bin\x86\Debug\AForge.Math.xml
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\bin\x86\Debug\AForge.xml
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\minset\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\AForge.Math.dll
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\AForge.dll
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\AForge.Math.xml
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\AForge.xml
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\emotiv\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\Accord.MachineLearning.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\ZedGraph.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv\Capstone\Capstone\bin\x86\Debug\Accord.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\bin\x86\Debug\Accord.MachineLearning.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\bin\x86\Debug\ZedGraph.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\bin\x86\Debug\Accord.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\bin\x86\Debug\Accord.MachineLearning.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\bin\x86\Debug\ZedGraph.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\bin\x86\Debug\Accord.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv - Copy - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\bin\x86\Debug\Accord.MachineLearning.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\bin\x86\Debug\ZedGraph.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\bin\x86\Debug\Accord.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv - buffer - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\bin\x86\Debug\Accord.MachineLearning.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\bin\x86\Debug\ZedGraph.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\bin\x86\Debug\Accord.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY matt johnson\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\bin\x86\Debug\Accord.MachineLearning.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\bin\x86\Debug\ZedGraph.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\bin\x86\Debug\Accord.dll
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson - Copy\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson - Copy\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson - Copy\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson - Copy\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\emotiv -  DO WE COPY COPY mattew johnson - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\bin\x86\Debug\AForge.dll
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\bin\x86\Debug\AForge.Math.xml
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy\Capstone\Capstone\bin\x86\Debug\AForge.xml
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\bin\x86\Debug\AForge.dll
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\bin\x86\Debug\AForge.Math.xml
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\bin\x86\Debug\AForge.xml
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\covariance - Copy - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\randy.xnb
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\AForge.dll
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\AForge.Math.xml
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\AForge.xml
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\project dan\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\dome.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\Textured.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\BumpMap.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\TexturedS.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\ParticleEffect.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\stars.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\Copter uv2.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\head.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\pants.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planetmap2.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planetmap3.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planetmap4.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planettex3.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planettex4.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planettex5.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planettex6.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planettex7.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\rockTex.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\suntex.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\venusmap.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\venusmap1.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\camo.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\diffuse.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\grey.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planettex2.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\shiptex.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\star.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\HelicopterHeightMap.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\HelicopterNormalMap.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\rock2.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\ship.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planet.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\planet2.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\rock.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Content\xwing.xnb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\project dan\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\project dan - Copy\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\project dan - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\project dan - Copy\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\project dan - Copy\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\project dan - Copy\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\project dan - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\project dan - Copy\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\16 node build\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\16 node build\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\16 node build\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\16 node build\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\16 node build\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\16 node build\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\16 node build\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\16 node build\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+F:\EEG source and solutions\8 node build\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+F:\EEG source and solutions\8 node build\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+F:\EEG source and solutions\8 node build\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+F:\EEG source and solutions\8 node build\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+F:\EEG source and solutions\8 node build\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\EEG source and solutions\8 node build\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\EEG source and solutions\8 node build\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+F:\EEG source and solutions\8 node build\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\FOR THE SWARM\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Mike\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Mike\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\Mike\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Mike\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Mike\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Mike\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Mike\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mike\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Mike\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Mike\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\Soda\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Soda\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Soda\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\8 node build\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\8 node build\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\daft\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\daft\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\Soda\Desktop\daft\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Soda\Desktop\daft\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Soda\Desktop\daft\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\daft\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\daft\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\daft\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\daft\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\daft\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\box.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb
+C:\Users\Soda\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\box.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+F:\videobuild\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+F:\videobuild\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\videobuild\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+F:\videobuild\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+F:\videobuild\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\box.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Mike\Desktop\videobuild\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\box.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Mike\Desktop\videobuild FOR DEE\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\box.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Mike\Desktop\truth almighty\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\box.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\The Damned of the Damned\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\box.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\box.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\Soda\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\box.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\CoolerMaster\Desktop\supersmash\Capstone\Capstone\obj\x86\Debug\Capstone.pdb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\box.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Capstone.exe
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Capstone.pdb
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\obj\x86\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\obj\x86\Debug\Capstone.exe
+C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\obj\x86\Debug\Capstone.pdb

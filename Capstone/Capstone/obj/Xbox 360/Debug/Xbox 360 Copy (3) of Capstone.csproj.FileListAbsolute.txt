@@ -1,0 +1,118 @@
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\dirtygrass.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\rock.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\snow.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\grassy.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\heightmap2.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\head.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\jacket.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\pants.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\upBodyC.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\FancyTerrain.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\fps.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\dude.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\head_0.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\jacket_0.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\pants_0.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Content\upBodyC_0.xnb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Capstone.exe
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\Capstone.pdb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\SkinnedModel.dll
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\bin\Xbox 360\Debug\SkinnedModel.pdb
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\obj\Xbox 360\Debug\Capstone.exe
+c:\users\peter\documents\visual studio 2010\Projects\Capstone\Capstone\Capstone\obj\Xbox 360\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\crosshair.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\midcompass.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\north.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\diffuse1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\Ambient3.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\Ambient.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\InstancedModel03.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\fps.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\dude.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\head_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\jacket_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\pants_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\upBodyC_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Capstone.exe
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\SkinnedModel.dll
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\SkinnedModel.pdb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\obj\Xbox 360\Debug\Capstone.exe
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\obj\Xbox 360\Debug\Capstone.pdb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\dirtygrass.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\grassy.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\grass1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\cloudMap.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\stars.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\CloudDome.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\greenTree.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bush00.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bush01.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\cherryTree.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\fruitTree.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigTree00.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigTree01.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\fern00.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\fern01.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\dome.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\dome1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\treeBirch.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roundTree.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\InstancedModel.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roughbarktex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\lindgreentreetex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\ahernbark_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bushtwig4v2_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bushtwig2_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\cherrytreebark_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\cherrytex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\fruittreetex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roundtreebark_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\roundtreetwig_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigtreebark_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\bigtreetex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firtrunk_texture_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firneedle_texture_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firbark_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\firtex_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\cloudMap_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\rock.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\flare1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\flare2.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\flare3.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\FancyTerrain.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\billBordEffectx.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\MultiSkyDome.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\snow.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\skyday.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\sunset.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\PerlinNoise.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\Sphere.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\glow.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\terrainNgrass\heightmap2.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_SHAMBLE.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_idle01.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\Zombie_Run01.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_idle_attk.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_run_attk.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\Zombie death.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_thriller.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombeh\zombie_shtgn_death.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\zombie_1_2.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\rain.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\snowf.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sky\ParticleShader.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\east.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\south.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\west.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\Soldier_5k.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\Soldier_D_1024_alt_0.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\sod.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\copter_full.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\birchbark_1.xnb
+C:\Users\Soda\Desktop\thriller build\Capstone\Capstone\bin\Xbox 360\Debug\Content\trees\birchtwig_1.xnb
