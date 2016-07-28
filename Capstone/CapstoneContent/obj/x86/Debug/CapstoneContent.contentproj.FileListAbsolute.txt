@@ -47,3 +47,4 @@ C:\Users\FOR THE SWARM\Desktop\supersmash\Capstone\CapstoneContent\obj\x86\Debug
 C:\Users\Soda\Desktop\supersmash\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
 C:\Users\CoolerMaster\Desktop\supersmash\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
 C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache
+C:\Users\CoolerMaster\Desktop\sampler\Capstone\CapstoneContent\obj\x86\Debug\CapstoneContent.contentprojResolveAssemblyReference.cache

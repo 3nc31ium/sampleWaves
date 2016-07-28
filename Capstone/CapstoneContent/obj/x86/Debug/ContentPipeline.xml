@@ -7,7 +7,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\fps.xnb</Output>
       <Time>2014-04-16T23:38:05.1055762-04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\husk.xnb</Output>
       <Time>2014-03-27T23:31:58-04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\snowf.xnb</Output>
       <Time>2014-03-31T03:20:00-04:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\bg.xnb</Output>
       <Time>2014-04-16T22:53:34.8478461-04:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\box.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\box.xnb</Output>
       <Time>2014-04-16T22:53:34.8488462-04:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\DOWN.xnb</Output>
       <Time>2014-04-16T22:53:34.8498463-04:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\LEFT.xnb</Output>
       <Time>2014-04-16T22:53:34.8508463-04:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\RIGHT.xnb</Output>
       <Time>2014-04-16T22:53:34.8518464-04:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\UP.xnb</Output>
       <Time>2014-04-16T22:53:34.8538465-04:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\apple.xnb</Output>
       <Time>2014-04-16T23:12:00.2210699-04:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\snake.xnb</Output>
       <Time>2014-04-16T23:12:07.6614954-04:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\logo.xnb</Output>
       <Time>2014-04-17T00:05:22.8996907-04:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb</Output>
+      <Output>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\ParticleShader.xnb</Output>
       <Time>2014-10-19T23:23:54.1737989-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -124,10 +124,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\CapstoneContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\CapstoneContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\CoolerMaster\Desktop\wavesretake\Capstone\Capstone\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\CoolerMaster\Desktop\sampler\Capstone\CapstoneContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\CoolerMaster\Desktop\sampler\Capstone\CapstoneContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\CoolerMaster\Desktop\sampler\Capstone\Capstone\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
